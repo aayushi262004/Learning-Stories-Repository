@@ -1,7 +1,7 @@
 # My Open Source Journey ✨
 
 👤 **Name:** Aayushi 
-📅 **First Contribution:** 3,October 2023  
+📅 **First Contribution:** 3,October 2025
 🔧 **Tools/Tech Used:** C++,GitHub, Markdown  
 
 🌟 **My Experience:**  
